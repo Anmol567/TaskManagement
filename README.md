@@ -1,6 +1,6 @@
 ![image](https://github.com/Anmol567/TaskManagement/assets/36369128/694bd802-8656-480c-b22d-84e1d02484dd)
 
-Task Management Application
+<h1>Task Management Application</h1>
 
 This project is a Task Management Application built using React.js for the frontend and Node.js/Express.js for the backend. It allows users to perform CRUD operations on tasks, including adding, editing, and deleting tasks.
 
@@ -14,22 +14,22 @@ Getting Started
 To run the Task Management Application locally on your machine, follow these steps:
 
 Clone the repository:
-git clone <repository-url>
+1) git clone <repository-url>
 Replace <repository-url> with the URL of the Git repository where the application code is hosted.
 
 Navigate to the project directory:
-cd TaskManagement
+1) cd TaskManagement
 
 Install dependencies:
-npm install
+1) npm install
 
 Build the client-side application:
-cd client
-npm install
-npm run build
+1) cd client
+2) npm install
+3) npm run build
 
 Start the server:
-npm start
+1) npm start
 
 Open your web browser and navigate to http://localhost:5001 to view the Task Management Application.
 
