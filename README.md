@@ -10,35 +10,46 @@ Features
 * Edit an existing task
 * Delete a task
 
-Getting Started
+<h2>Demo link</h2> 
+https://drive.google.com/file/d/1OtUjElHSzfS4dWO1ABlAXOwCEMt7j15y/view?usp=sharing
+
+<h2>Getting Started</h2>
 To run the Task Management Application locally on your machine, follow these steps:
 
-Clone the repository:
-1) git clone <repository-url>
-Replace <repository-url> with the URL of the Git repository where the application code is hosted.
+<h3>Clone the repository:</h3>
 
-Navigate to the project directory:
+1) git clone <repository-url> (Replace <repository-url> with the URL of the Git repository where the application code is hosted.)
+
+<h3>Navigate to the project directory:</h3>
+
 1) cd TaskManagement
 
-Install dependencies:
+<h3>Install dependencies:</h3>
+
 1) npm install
 
-Build the client-side application:
+<h3>Build the client-side application:</h3>
+
 1) cd client
+   
 2) npm install
+   
 3) npm run build
 
-Start the server:
+<h3>Start the server:</h3>
+
 1) npm start
 
-Open your web browser and navigate to http://localhost:5001 to view the Task Management Application.
+<h3>Open your web browser and navigate to http://localhost:5001 to view the Task Management Application.</h3>
 
-Technologies Used
+<h3>Technologies Used</h3>
+
 * React.js
+  
 * Node.js
+  
 * Express.js
 
-Demo link https://drive.google.com/file/d/1OtUjElHSzfS4dWO1ABlAXOwCEMt7j15y/view?usp=sharing
 
 
 
