@@ -1,3 +1,5 @@
+![image](https://github.com/Anmol567/TaskManagement/assets/36369128/694bd802-8656-480c-b22d-84e1d02484dd)
+
 Task Management Application
 
 This project is a Task Management Application built using React.js for the frontend and Node.js/Express.js for the backend. It allows users to perform CRUD operations on tasks, including adding, editing, and deleting tasks.
@@ -38,5 +40,5 @@ Technologies Used
 
 Demo link https://drive.google.com/file/d/1OtUjElHSzfS4dWO1ABlAXOwCEMt7j15y/view?usp=sharing
 
-![image](https://github.com/Anmol567/TaskManagement/assets/36369128/694bd802-8656-480c-b22d-84e1d02484dd)
+
 
